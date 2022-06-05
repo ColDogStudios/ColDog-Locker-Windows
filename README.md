@@ -30,7 +30,7 @@
 
 ColDog Studios is committed to keeping your files secure and will fix any security vulnerability as soon as possible. ColDog Studios does not recieve any information from you such as passwords. All of the configuration is stored on your local machine.
 
-Your anti-virus will most likly flag "ColDog Locker.exe" and "Fixer.exe" as viruses. This is a false postitive and you need to make an exclusion for both.
+Your anti-virus will most likly flag "ColDog Locker.exe" as a virus. This is a false postitive and you need to make an exclusion.
 
 ## Disclaimer
 
