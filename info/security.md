@@ -1,4 +1,4 @@
-> # Security Policy - ColDog Locker Console
+> # Security Policy - ColDog Locker Windows
 >
 > Copyright © ColDog Studios. All rights reserved.
 
@@ -10,14 +10,7 @@ ColDog Studios is committed to keeping your files secure and will work to fix an
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 3.0.x   | :heavy_check_mark: |
-| 2.3.x   | :x:                |
-| 2.2.x   | :x:                |
-| 2.1.x   | :x:                |
-| 2.0.x   | :x:                |
-| 1.2.x   | :x:                |
-| 1.1.x   | :x:                |
-| 1.0.x   | :x:                |
+| 1.0.x   | :heavy_check_mark: |
 
 ## Known Vulnerabilities
 
@@ -32,4 +25,4 @@ To report a vulnerability, please contact the following email with a:
 3. (Optional) how to fix the vulnerability
 4. (Optional) Statement saying you do not want to be credited for the vulnerability (You will be credited by default. Make a clear name you want to be credited by.)
 
-Email: coldog5044.business@gmail.com
+Email: coldogstudios.business@gmail.com
