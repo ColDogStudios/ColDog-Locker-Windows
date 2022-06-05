@@ -45,6 +45,8 @@ body:
         - Windows 10
         - Server 2022
         - Other (put OS in description)
+    validations:
+      required: true
   - type: textarea
     id: logs
     attributes:
