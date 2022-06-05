@@ -6,7 +6,7 @@
 
 ## Dependencies
 
- - Powershell must be installed
+ - Powershell **MUST** be installed
  - The rest of the necessities are provided
 
 ## Compatability
