@@ -6,7 +6,8 @@
 
 ## Dependencies
 
- - Powershell **MUST** be installed
+ - Microsoft Powershell **MUST** be installed
+ - Microsoft CMD **MUST** be enabled
  - The rest of the necessities are provided
 
 ## Compatability
