@@ -1,9 +1,9 @@
 name: Bug Report
 description: File a bug report
 title: "[Bug]: "
-labels: ["bug", "triage"]
+labels: ["bug"]
 assignees:
-  - octocat
+  - 
 body:
   - type: markdown
     attributes:
@@ -30,15 +30,16 @@ body:
     id: version
     attributes:
       label: Version
-      description: What version of our software are you running?
+      description: What version of ColDog Locker Windows are you running?
       options:
-        - v1.0.0
+        - v1.0.0.0
     validations:
       required: true
   - type: dropdown
     id: OS
     attributes:
-      label: What OS are you seeing the problem on?
+      label: OS
+      description: What OS are you seeing the problem on?
       options:
         - Windows 11
         - Windows 10
