@@ -4,6 +4,11 @@
 
 ---
 
+## Dependencies
+
+ - Powershell must be installed
+ - The rest of the necessities are provided
+
 ## Compatability
 
 | Operating System | Supported          |
@@ -11,6 +16,9 @@
 | Windows 11       | :heavy_check_mark: |
 | Windows 10       | :heavy_check_mark: |
 | < Windows 8.1    | :grey_question:    |
+| Server 2022      | :heavy_check_mark: |
+| Server 2019      | :heavy_check_mark: |
+| Server 2016      | :heavy_check_mark: |
 
 | OS Architecture         | Supported          |
 | ----------------------- | ------------------ |
