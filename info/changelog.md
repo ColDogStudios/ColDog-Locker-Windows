@@ -13,4 +13,5 @@
 
 # Future Plans
 
+ - Application for Linux
  - Create an application based on C++
