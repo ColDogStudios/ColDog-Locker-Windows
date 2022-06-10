@@ -34,11 +34,8 @@ Your anti-virus will most likly flag "ColDog Locker.exe" as a virus. This is a f
 
 ## Disclaimer
 
-By using this software, you agree that ColDog Studios is not held responsible for any data lost, stolen, or accessed.
-
-Any unauthorized copying, distributing, or selling of this solftware is prohibited.
-
-Do not type any blank or illegal characters into the prompts.
+ - By using this software, you agree that ColDog Studios is not held responsible for any data lost, stolen, or accessed.
+ - Any unauthorized copying, distributing, or selling of this solftware is prohibited.
 
 ## Features
 
