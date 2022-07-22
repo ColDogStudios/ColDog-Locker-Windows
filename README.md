@@ -50,3 +50,4 @@ Your anti-virus will most likly flag "ColDog Locker.exe" as a virus. This is a f
 
  - Please read SECURITY.md in the "info" folder for more information about reporting vulnerabilities.
  - Please go to the "feedback" folder located in the "info" forlder for more information about reporting bugs and requesting features.
+
