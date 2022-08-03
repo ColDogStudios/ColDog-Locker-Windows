@@ -44,7 +44,11 @@ Your anti-virus will most likly flag "ColDog Locker.exe" as a virus. This is a f
 
 ## Features
 
- - 
+ - Create an encrypted, password protected folder, which is lockable
+ - View System Information
+ - Update Checker
+ - Resources on How to Use
+ - Password Encryption
 
 ## Reporting & Feedback
 
