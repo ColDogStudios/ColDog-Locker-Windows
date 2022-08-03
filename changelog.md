@@ -5,9 +5,17 @@
 
 ---
 
-## v1.0.0
+## v1.0.0.0
 
- - Initial release of ColDog Locker Windows
+ - Create an ecrypted, password protected folder, which is lockable
+ - Remove configuration
+ - ColDog Studios resources
+ - Lock & Unlock system
+ - System information
+ - Custom input
+ - About section
+ - How to use CDL
+ - Check for updates
 
 ---
 
