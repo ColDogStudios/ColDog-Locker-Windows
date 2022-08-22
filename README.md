@@ -2,6 +2,8 @@
 >
 > Copyright © ColDog Studios. All rights reserved.
 
+![ColDog Locker Logo]()
+
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ColDogStudios/ColDog-Locker-Windows?display_name=release)
 ![GitHub all releases](https://img.shields.io/github/downloads/ColDogStudios/ColDog-Locker-Windows/total)
 ![GitHub issues](https://img.shields.io/github/issues/ColDogStudios/ColDog-Locker-Windows)
