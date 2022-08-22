@@ -1,7 +1,7 @@
 name: Security Issue
 description: File a security issue or vulnerability
 title: "[Security]: "
-labels: ["security"]
+labels: ["type: security"]
 assignees:
   - 
 body:
