@@ -15,9 +15,9 @@ Copyright © ColDog Studios. All rights reserved.
 
 ## Dependencies
 
- - Microsoft Powershell **MUST** be installed
- - Microsoft CMD **MUST** be enabled
- - The rest of the necessities are provided
+ - Windows Powershell 5.1 or later **MUST** be enabled/installed
+ - Microsoft CMD **MUST** be enabled/installed
+ - ColDog Locker **MUST** be installed to the default PATH - ```"C:/Program Files (x86)/ColDog Studios/ColDog Locker"```
 
 ## Compatability
 
