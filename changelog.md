@@ -6,15 +6,13 @@
 
 ## v1.0.0
 
- - Create an ecrypted, password protected folder, which is lockable
- - Remove configuration
- - ColDog Studios resources
- - Lock & Unlock system
- - System information
- - Custom input
- - About section
- - How to use CDL
- - Check for updates
+ - Folder Encryption
+ - Password Protected Folder
+ - Password Encryption
+ - Lock & Unlock System
+ - Failed Attempts Lockout
+ - View System Information
+ - Update Checker
 
 ---
 
