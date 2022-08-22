@@ -54,7 +54,7 @@ Your anti-virus will most possibly flag ColDog Locker as a virus. This is a fals
  - Failed Attempts Lockout
  - View System Information
  - Update Checker
- - Resources on ![How to Use](docs/how-to-use.md)
+ - Resources on [How to Use](docs/how-to-use.md)
 
 ## Reporting & Feedback
 
