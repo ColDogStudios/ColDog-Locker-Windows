@@ -1,19 +1,23 @@
-> # ColDog Locker Windows
->
-> Copyright © ColDog Studios. All rights reserved.
+# ColDog Locker Windows
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/ColDogStudios/ColDog-Locker-Windows?display_name=release)
-![GitHub all releases](https://img.shields.io/github/downloads/ColDogStudios/ColDog-Locker-Windows/total)
-![GitHub issues](https://img.shields.io/github/issues/ColDogStudios/ColDog-Locker-Windows)
-![GitHub last commit](https://img.shields.io/github/last-commit/ColDogStudios/ColDog-Locker-Windows)
+Copyright © ColDog Studios. All rights reserved.
+
+<p align="center">
+  <img width="1000" src="https://ColDogStudios.github.io/assets/images/ColDog Locker/ColDog Locker - Lite Wallpaper.png">
+  <br> <br>
+  <img src="https://img.shields.io/github/v/release/ColDogStudios/ColDog-Locker-Windows?display_name=release">
+  <img src="https://img.shields.io/github/downloads/ColDogStudios/ColDog-Locker-Windows/total">
+  <img src="https://img.shields.io/github/issues/ColDogStudios/ColDog-Locker-Windows">
+  <img src="https://img.shields.io/github/last-commit/ColDogStudios/ColDog-Locker-Windows">
+</p>
 
 ---
 
 ## Dependencies
 
- - Microsoft Powershell **MUST** be installed
- - Microsoft CMD **MUST** be enabled
- - The rest of the necessities are provided
+ - Windows Powershell 5.1 or later **MUST** be enabled/installed
+ - Microsoft CMD **MUST** be enabled/installed
+ - ColDog Locker **MUST** be installed to the default PATH - ```"C:/Program Files (x86)/ColDog Studios/ColDog Locker"```
 
 ## Compatability
 
@@ -35,7 +39,7 @@
 
 ColDog Studios is committed to keeping your files secure and will fix any security vulnerability as soon as possible. ColDog Studios does not recieve any information from you such as passwords. All of the configuration is stored on your local machine.
 
-Your anti-virus will most likly flag "ColDog Locker.exe" as a virus. This is a false postitive and you need to make an exclusion.
+Your anti-virus will most possibly flag ColDog Locker as a virus. This is a false postitive and you need to make an exclusion.
 
 ## Disclaimer
 
@@ -44,11 +48,13 @@ Your anti-virus will most likly flag "ColDog Locker.exe" as a virus. This is a f
 
 ## Features
 
- - Create an encrypted, password protected folder, which is lockable
+ - Folder Encryption
+ - Password Protected Folder
+ - Password Encryption
+ - Failed Attempts Lockout
  - View System Information
  - Update Checker
  - Resources on How to Use
- - Password Encryption
 
 ## Reporting & Feedback
 
