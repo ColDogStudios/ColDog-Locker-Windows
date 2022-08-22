@@ -1,7 +1,7 @@
 name: Feature Request
 description: Request a Feature or Enhancement
 title: "[Feature Request]: "
-labels: ["enhancement"]
+labels: ["type: feature"]
 assignees:
   - 
 body:
