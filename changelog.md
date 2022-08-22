@@ -2,10 +2,9 @@
 >
 > Copyright © ColDog Studios. All rights reserved.
 
-
 ---
 
-## v1.0.0.0
+## v1.0.0
 
  - Create an ecrypted, password protected folder, which is lockable
  - Remove configuration
