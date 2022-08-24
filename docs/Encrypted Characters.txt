@@ -1,0 +1,3 @@
+abcdefghijklmnopqrstuvwxyz1234567890@#$*(.,- \/
+
+These are the only characters that will be encrypted. Any other character may not be compatable and will possibly be removed. ALL letters will turn out LOWERCASE
