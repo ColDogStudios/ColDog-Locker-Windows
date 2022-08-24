@@ -21,7 +21,6 @@ body:
     id: what-happened
     attributes:
       label: What is your Question?
-      description: What are you confused about?
       placeholder: What is your Question?
       value: "My Question"
     validations:
