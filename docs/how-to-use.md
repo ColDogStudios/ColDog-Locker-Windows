@@ -22,6 +22,8 @@
 
 ### 2.1.1 New
   Selecting the ***New*** option will allow you to create a new folder if you have not already created a folder previously or have deleted your previous folder’s configuration (2.1.2).
+  
+  ***IMPORTANT*** - All the letters in your password will end up lowercase. Read the [FAQ](https://github.com/ColDogStudios/ColDog-Locker-Windows/edit/CDS/docs/FAQ.md) for explanation.
 
 ### 2.1.2 Delete
   Selecting the ***Delete*** option will allow you to remove configuration for a folder that is unlocked (2.3.2).
@@ -32,10 +34,10 @@
 ## 2.2 Home Menu
 
 ### 2.2.1 CDS Website
-  Selecting the ***CDS Website*** option will open your default web browser to the ColDog Studios home page. (https://ColDogStudios.github.io)
+  Selecting the ***CDS Website*** option will open your default web browser to the ColDog Studios [Home Page](https://ColDogStudios.github.io).
 
 ### 2.2.2 CDS GitHub
-  Selecting the ***CDS GitHub*** option will open your default web browser to the ColDog Studios GitHub page. (https://github.com/ColDogStudios)
+  Selecting the ***CDS GitHub*** option will open your default web browser to the ColDog Studios [GitHub Page](https://github.com/ColDogStudios).
 
 ## 2.3 ColDog Locker Menu
 
@@ -44,6 +46,8 @@
 
 ### 2.3.2 Unlock Folder
   Selecting the ***Unlock Folder*** option will allow you to unlock your folder with your password.
+  
+  ***IMPORTANT*** - Your password will be all lowercase. Read the [FAQ](https://github.com/ColDogStudios/ColDog-Locker-Windows/edit/CDS/docs/FAQ.md) for explanation.
 
 ## 2.4 Tools Menu
 
@@ -59,10 +63,10 @@
   Selecting the ***About*** option will show some information about ColDog Locker.
   
 ### 2.5.2 How to Use
-  Selecting the ***How to Use*** option will open your default web browser to this file. (https://github.com/ColDogStudios/ColDog-Locker-Windows/docs/how-to-use.md)
+  Selecting the ***[How to Use](https://github.com/ColDogStudios/ColDog-Locker-Windows/docs/how-to-use.md)*** option will open your default web browser to this file.
 
 ### 2.5.3 Check for Updates
-  Selecting the ***Check for Updates*** option will run bitsadmin.exe, a built-in Windows executable, to get the text from (https://ColDogStudios.github.io/projects/coldog-locker/windows/gui-latest.txt) and store it as a variable.
+  Selecting the ***Check for Updates*** option will run bitsadmin.exe, a built-in Windows executable, to get text from the [CDS Website](https://ColDogStudios.github.io/projects/coldog-locker/windows/gui-latest.txt) and store it as a variable.
 
 # 3. Uninstallation
   The difference between a Normal Uninstall (3.1) and a Full Uninstall (3.2) is the configuration aspect. If you want to keep your special advancements, it is best to continue with a Normal Uninstall.
