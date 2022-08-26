@@ -50,7 +50,7 @@ Your anti-virus will most possibly flag ColDog Locker as a virus. This is a fals
 
  - Folder Encryption
  - Password Protected Folder
- - Password Encryption
+ - Custom Password Encryption
  - Failed Attempts Lockout
  - View System Information
  - Update Checker
