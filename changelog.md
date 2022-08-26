@@ -8,7 +8,7 @@
 
  - Folder Encryption
  - Password Protected Folder
- - Password Encryption
+ - Custom Password Encryption
  - Lock & Unlock System
  - Failed Attempts Lockout
  - View System Information
