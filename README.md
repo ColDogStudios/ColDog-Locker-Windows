@@ -3,7 +3,7 @@
 Copyright © ColDog Studios. All rights reserved.
 
 <p align="center">
-  <img width="1000" src="https://ColDogStudios.github.io/assets/images/ColDog Locker/ColDog Locker - Lite Wallpaper.png">
+  <img width="1000" src="https://ColDogStudios.github.io/assets/images/ColDog Locker/ColDogLockerWallpaperLite.png">
   <br> <br>
   <img src="https://img.shields.io/github/v/release/ColDogStudios/ColDog-Locker-Windows">
   <img src="https://img.shields.io/github/downloads/ColDogStudios/ColDog-Locker-Windows/total">
