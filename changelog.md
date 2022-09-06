@@ -1,4 +1,4 @@
-> # CHANGELOG - ColDog Locker Console
+> # CHANGELOG - ColDog Locker Windows
 >
 > Copyright © ColDog Studios. All rights reserved.
 
